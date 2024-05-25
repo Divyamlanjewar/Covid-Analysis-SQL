@@ -1,2 +1,3 @@
 # Covid-Analysis-SQL
 SQL-based COVID-19 analysis system providing comprehensive insights into infection rates, mortality trends, and vaccination progress across regions.
+**Leveraging SQL queries, this system aggregates and analyzes large datasets from authoritative sources to generate reports and visualizations. Users can explore data by country, time period, and demographic variables, enabling targeted analysis of pandemic dynamics. Advanced SQL techniques such as JOINs, subqueries, and window functions are employed for accurate data manipulation and analysis. This system supports informed decision-making and policy planning by providing actionable insights into the COVID-19 pandemic's impact**
